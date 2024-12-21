@@ -1,0 +1,32 @@
+.TitileOfPage {
+    color: #9466c4;
+    background-color: #630fb6;
+    text-align: center;
+  }
+  
+  .SiteIntro {
+    color: rgb(103, 154, 212);
+    background-color: blue;
+    text-align: center;
+  }
+  
+  .ShopIntro {
+    color: #f79af2d7;
+    background-color: #f56aeed7;
+    text-align: justify;
+    font-size: 20px;
+  }
+  
+  .ShopForBaghali {
+    color: black;
+    background-color: rgb(130, 230, 55);
+    display: flex;
+    flex-direction: column;
+    max-width: 400px;
+    font-size: 20px;
+  }
+  
+  body {
+    background-color: #be039f;
+  }
+  
